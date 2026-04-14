@@ -1,7 +1,7 @@
 # Lab-Active-Directory
 Simulation d'attaque complète sur une infrastructure Active Directory 
 vulnérable, de la capture de hash NTLMv2 jusqu'au Kerberoasting. 
-Lab éducatif réalisé avec Kali Linux, Impacket & Hashcat.
+Lab éducatif réalisé avec Kali Linux, Impacket et Hashcat.
 
 Simulation of a comprehensive attack on a vulnerable Active Directory infrastructure,
 from capturing NTLMv2 hashes to Kerberoasting.
