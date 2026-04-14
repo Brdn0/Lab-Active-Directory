@@ -1,4 +1,8 @@
 # Lab-Active-Directory
-Lab Active Directory offensif complet : LLMNR Poisoning, Hash Cracking,  SMB Enumeration, LDAP Dump, AS-REP Roasting et Kerberoasting.  Environnement VMware isolé avec DC Windows Server 2022 + client Windows 10.
+Simulation d'attaque complète sur une infrastructure Active Directory 
+vulnérable, de la capture de hash NTLMv2 jusqu'au Kerberoasting. 
+Lab éducatif réalisé avec Kali Linux, Impacket & Hashcat.
 
-Comprehensive offensive Active Directory lab: LLMNR poisoning, hash cracking, SMB enumeration, LDAP dump, AS-REP roasting, and Kerberoasting. Isolated VMware environment with Windows Server 2022 domain controller and Windows 10 client.
+Simulation of a comprehensive attack on a vulnerable Active Directory infrastructure,
+from capturing NTLMv2 hashes to Kerberoasting.
+Educational lab conducted using Kali Linux, Impacket, and Hashcat.
