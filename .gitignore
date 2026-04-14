@@ -1,0 +1,6 @@
+*.potfile
+*.hash
+loot/*.json
+loot/*.grep
+loot/*.bin
+.DS_Store
