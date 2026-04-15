@@ -1,4 +1,6 @@
 # Lab-Active-Directory
+<img width="3235" height="2273" alt="infra_lab_ad" src="https://github.com/user-attachments/assets/96405625-fbd6-4640-8e74-7b5aab2fda06" />
+
 Simulation d'attaque complète sur une infrastructure Active Directory 
 vulnérable, de la capture de hash NTLMv2 jusqu'au Kerberoasting. 
 Lab éducatif réalisé avec Kali Linux, Impacket et Hashcat. Vous retrouverz le schéma de l'infrastructure dans le fichier infra_lab_ad_excalidraw.png. 
