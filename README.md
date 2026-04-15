@@ -1,5 +1,6 @@
 # Lab-Active-Directory
-<img width="3235" height="2273" alt="infra_lab_ad" src="https://github.com/user-attachments/assets/96405625-fbd6-4640-8e74-7b5aab2fda06" />
+
+<img width="950" height="621" alt="image" src="https://github.com/user-attachments/assets/90eb6343-5355-43b8-847b-0556a88106f1" />
 
 Simulation d'attaque complète sur une infrastructure Active Directory 
 vulnérable, de la capture de hash NTLMv2 jusqu'au Kerberoasting. 
