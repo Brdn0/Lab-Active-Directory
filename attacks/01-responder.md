@@ -80,8 +80,9 @@ Nous avons le hash du user stocker :
 
 On utilise hashcat, pour pouvoir lire le hash.
 Puis, on copie colle le hash, afin de pouvoir le rentrer dans hashcat :
-<img width="604" height="177" alt="Sans titre(8)" src="https://github.com/user-attachments/assets/d0b80105-735f-4c6c-adbf-e906572f01ef" />
 <img width="945" height="426" alt="image" src="https://github.com/user-attachments/assets/a24f6fe6-4a56-4f0e-903c-151044ef5056" />
+<img width="604" height="177" alt="Sans titre(8)" src="https://github.com/user-attachments/assets/d0b80105-735f-4c6c-adbf-e906572f01ef" />
+
 
 Pourquoi /tmp ?
 C'est rapide et accessible
