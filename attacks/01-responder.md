@@ -104,5 +104,5 @@ NTLM sert à prouver ton identité sur un réseau Windows sans envoyer le mot de
 
 📚 Sources consultées
 Ressource	Lien
-Responder — GitHub officiel (SpiderLabs)	https://github.com/SpiderLabs/Responder
-Hashcat — Site officiel	https://hashcat.net/hashcat/
+Responder - GitHub officiel (SpiderLabs)	https://github.com/SpiderLabs/Responder
+Hashcat - Site officiel	https://hashcat.net/hashcat/
