@@ -81,7 +81,7 @@ Nous avons le hash du user stocker :
 
 On utilise hashcat, pour pouvoir lire le hash.
 Puis, on copie colle le hash, afin de pouvoir le rentrer dans hashcat :
-<img width="945" height="151" alt="image" src="https://github.com/user-attachments/assets/87619ff8-ee34-46e2-9b59-b470502202e7" />
+<img width="604" height="177" alt="Sans titre(8)" src="https://github.com/user-attachments/assets/d0b80105-735f-4c6c-adbf-e906572f01ef" />
 <img width="945" height="426" alt="image" src="https://github.com/user-attachments/assets/a24f6fe6-4a56-4f0e-903c-151044ef5056" />
 
 Pourquoi /tmp ?
@@ -100,18 +100,6 @@ NTLM sert à prouver ton identité sur un réseau Windows sans envoyer le mot de
 2.	Le serveur envoie un défi (un nombre aléatoire)
 3.	Le client chiffre ce défi avec le hash de son mot de passe et renvoie une réponse
 4.	Le serveur vérifie la réponse → accès accordé ou refusé
-
-NTLMv1 vs NTLMv2
-	NTLMv1	NTLMv2
-	NTLMv1	NTLMv2
-Année	1993	1998
-Chiffrement	DES (56 bits, faible)	HMAC-MD5 (128 bits)
-Défi client	❌ Non	✅ Oui
-Horodatage	❌ Non	✅ Oui
-Résistance aux attaques	Très faible	Meilleure, mais pas totale
-NTLMv2 ajoute un défi côté client + un horodatage, ce qui rend les attaques par rejeu plus difficiles.
-
-
 
 
 📚 Sources consultées
