@@ -77,7 +77,7 @@ On accède aux logs de Responder :
 <img width="945" height="161" alt="image" src="https://github.com/user-attachments/assets/904fdea3-441f-49d0-a67a-e59c282e630a" />
 
 Nous avons le hash du user stocker :
-<img width="945" height="650" alt="image" src="https://github.com/user-attachments/assets/7a218a43-55d2-44f8-871e-2f9aa2182dcd" />
+<img width="604" height="416" alt="Reponder" src="https://github.com/user-attachments/assets/fe036e76-7c19-4f8e-9b6a-bca71bc4568c" />
 
 On utilise hashcat, pour pouvoir lire le hash.
 Puis, on copie colle le hash, afin de pouvoir le rentrer dans hashcat :
