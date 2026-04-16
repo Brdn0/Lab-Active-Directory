@@ -67,10 +67,10 @@ Puis, on rentre nos identifiants de connexion.
 <img width="945" height="520" alt="image" src="https://github.com/user-attachments/assets/45791603-3cce-4613-ae8f-5e01964bd70f" />
 
 L’accès est refusé.
-<img width="945" height="216" alt="image" src="https://github.com/user-attachments/assets/8f03520e-a743-407e-8ff4-9b8b89f649d8" />
+<img width="604" height="138" alt="hash1" src="https://github.com/user-attachments/assets/63799597-8369-4de5-8d4b-f1427fbff3d1" />
 
 Nous obtenons ainsi la requête du client. Nous ainsi les informations d’authentification du client, ainsi que le hash de son mot de passe : 
-<img width="945" height="277" alt="image" src="https://github.com/user-attachments/assets/0c9d11ab-3de2-4d7c-b962-baade49c0705" />
+<img width="604" height="177" alt="Hash2" src="https://github.com/user-attachments/assets/4e7fbd98-722d-4326-9d53-c52e5171a346" />
 
 On accède aux logs de Responder :
 
