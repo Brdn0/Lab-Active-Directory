@@ -1,5 +1,5 @@
 <img width="763" height="1684" alt="image" src="https://github.com/user-attachments/assets/c86a10bc-d6d2-4ff6-9927-06892aac8a44" />
-# 01 - LLMNR Poisoning (Responder)
+# 01 - LLMNR Poisoning 
 
 ## Définition
 LLMNR (Link-Local Multicast Name Resolution)
