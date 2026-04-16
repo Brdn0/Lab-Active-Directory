@@ -32,14 +32,7 @@ Infrastructure
 | # | Attaque | Outil | Résultat |
 |---|---|---|---|
 | 01 | LLMNR Poisoning | Responder | Hash NTLMv2 capturé |
-| 02 | Hash Cracking | Hashcat | `abcd1234*` |
-| 03 | SMB/LDAP Enumeration | NetExec | Users, groupes, partages |
-| 04 | LDAP Dump | ldapdomaindump | Cartographie AD complète |
-| 05 | AS-REP Roasting | Impacket GetNPUsers | Hash TGT de johnd |
-| 06 | Kerberoasting | Impacket GetUserSPNs | Hash ST de svcbackup |
-| 07 | AD Mapping | BloodHound CE | Chemins d'attaque vers DA |
-| 08 | Pass-the-Hash | NetExec / Evil-WinRM | Mouvement latéral |
-| 09 | DCSync | impacket-secretsdump | Dump complet des hashes |
+
 
 ## 📁 Loot
 
